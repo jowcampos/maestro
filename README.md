@@ -1,16 +1,21 @@
 # Simplificando a automação de testes de UI em dispositivos móveis com Maestro
 
+![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Bed4d9UmFGx2wuHxo46tDA.png)
+
 # Indolor
+
 O Maestro é um player relativamente novo no cenário de testes, mas está rapidamente conquistando popularidade devido à sua simplicidade e eficiência na implementação. Essa ferramenta permite a automação de testes ponta a ponta (e2e), simulando interações de usuário e verificando se o comportamento é o esperado.
 Nesse sentido, trata-se de uma ferramenta multiplataforma com suporte para iOS e Android, React Native, Flutter e WebViews. O Maestro evoluiu a partir de seus predecessores, como: Appium, Espresso, UIAutomator e XCTest, incorporando o que já funcionava bem e adicionando melhorias fundamentais, ao mesmo tempo, em que mantém uma abordagem de uso simplificada, sem complexidades.
 Essa abordagem simplificada e de alto desempenho torna o Maestro uma escolha especialmente atrativa para desenvolvedores que buscam configurar testes e2e de maneira ágil e descomplicada em seus aplicativos. Com o Maestro, você pode garantir que seu aplicativo funcione conforme as expectativas, economizando tempo e recursos no processo de desenvolvimento e garantindo a qualidade do seu produto final.
+
 ![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*t_Q_QKj8HuNnbkIy)
+
 Além da agilidade, destaco aqui:
-Execução rápida: Os testes são interpretados, sem necessidade de compilação, e o Maestro pode monitorar e executar automaticamente os arquivos de teste conforme são modificados.
-Sintaxe simples: Configure seus testes facilmente em um arquivo YAML simples.
-Tolerância integrada: O Maestro lida com a imprevisibilidade dos elementos da interface do usuário, toques na tela e atrasos nos aplicativos e dispositivos móveis.
+- Execução rápida: Os testes são interpretados, sem necessidade de compilação, e o Maestro pode monitorar e executar automaticamente os arquivos de teste conforme são modificados.
+- Sintaxe simples: Configure seus testes facilmente em um arquivo YAML simples.
+- Tolerância integrada: O Maestro lida com a imprevisibilidade dos elementos da interface do usuário, toques na tela e atrasos nos aplicativos e dispositivos móveis.
 Sem atrasos artificiais: O Maestro evita a necessidade de pausas arbitrarias nos testes com "chamadas sleep()" e aguarda automaticamente pelo carregamento do conteúdo.
-Configuração descomplicada: O Maestro é um único arquivo executável que pode ser usado em qualquer lugar.
+- Configuração descomplicada: O Maestro é um único arquivo executável que pode ser usado em qualquer lugar.
 
 # Na prática
 Para começar a utilizar da maneira mais simples estarei demonstrando como instalar e rodar em uma máquina MacOS.
