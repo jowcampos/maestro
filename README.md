@@ -14,7 +14,7 @@ Além da agilidade, destaco aqui:
 - Execução rápida: Os testes são interpretados, sem necessidade de compilação, e o Maestro pode monitorar e executar automaticamente os arquivos de teste conforme são modificados.
 - Sintaxe simples: Configure seus testes facilmente em um arquivo YAML simples.
 - Tolerância integrada: O Maestro lida com a imprevisibilidade dos elementos da interface do usuário, toques na tela e atrasos nos aplicativos e dispositivos móveis.
-Sem atrasos artificiais: O Maestro evita a necessidade de pausas arbitrarias nos testes com "chamadas sleep()" e aguarda automaticamente pelo carregamento do conteúdo.
+- Sem atrasos artificiais: O Maestro evita a necessidade de pausas arbitrarias nos testes com "chamadas sleep()" e aguarda automaticamente pelo carregamento do conteúdo.
 - Configuração descomplicada: O Maestro é um único arquivo executável que pode ser usado em qualquer lugar.
 
 # Na prática
