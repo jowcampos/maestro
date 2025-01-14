@@ -1,13 +1,26 @@
-# Simplificando a automação de testes de UI em dispositivos móveis com Maestro
-
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/1*Bed4d9UmFGx2wuHxo46tDA.png)
+# Simplificando a automação de testes de UI em dispositivos com Maestro
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*Bed4d9UmFGx2wuHxo46tDA.png" 
+       alt="imagem"
+       style="border: 10px solid white;">
+</div>
+<br>
 
 # Indolor
 
+<div align="justify" style="font-family: 'JetBrains Mono Medium', monospace;">
 O Maestro é um player relativamente novo no cenário de testes, mas está rapidamente conquistando popularidade devido à sua simplicidade e eficiência na implementação. Essa ferramenta permite a automação de testes ponta a ponta (e2e), simulando interações de usuário e verificando se o comportamento é o esperado.
-Nesse sentido, trata-se de uma ferramenta multiplataforma com suporte para iOS e Android, React Native, Flutter e WebViews. O Maestro evoluiu a partir de seus predecessores, como: Appium, Espresso, UIAutomator e XCTest, incorporando o que já funcionava bem e adicionando melhorias fundamentais, ao mesmo tempo, em que mantém uma abordagem de uso simplificada, sem complexidades.
+Nesse sentido, trata-se de uma ferramenta multiplataforma com suporte para iOS e Android, React Native, Flutter e WebViews.
+</div>
+<br>
+<div align="justify" style="font-family: 'JetBrains Mono Medium', monospace;">
+O Maestro evoluiu a partir de seus predecessores, como: Appium, Espresso, UIAutomator e XCTest, incorporando o que já funcionava bem e adicionando melhorias fundamentais, ao mesmo tempo, em que mantém uma abordagem de uso simplificada, sem complexidades.
+</div>
+<br>
 
-![](https://miro.medium.com/v2/resize:fit:720/format:webp/0*t_Q_QKj8HuNnbkIy)
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*t_Q_QKj8HuNnbkIy" alt="imagem">
+</div>
 
 Essa abordagem simplificada e de alto desempenho torna o Maestro uma escolha especialmente atrativa para desenvolvedores que buscam configurar testes e2e de maneira ágil e descomplicada em seus aplicativos. Com o Maestro, você pode garantir que seu aplicativo funcione conforme as expectativas, economizando tempo e recursos no processo de desenvolvimento e garantindo a qualidade do seu produto final.
 
@@ -68,8 +81,10 @@ https://maestro.mobile.dev/api-reference/commands
 A cobertura de teste pode ser escalonada conforme a evolução do projeto, uma vez que o Maestro possui comandos de alto nível que permite que qualquer pessoa colabore, mesmo não sendo o autor original.
 
 # Maestro Studio
+<div align="justify" style="font-family: 'JetBrains Mono Medium', monospace;">
 Sabe quando você fica perdidão nas telas que não possui ID, o Maestro resolve esse problema com o Mestro Studio que está integrado ao CLI. Com apenas um comando é possível selecionar visualmente um elemento da interface clicando e capturando na tela do dispositivo, também possibilitando capturar o elemento por texto ou posição na ausência dos ID.
 Segunda parte em breve. "Melhores Práticas para utilizar o Maestro".
-
+<div>
+<br>
 # Referências
 https://maestro.mobile.dev
